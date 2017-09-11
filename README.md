@@ -12,6 +12,6 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 
 ### 第二讲：传统神经网络
 > 代码示例：[K近邻算法，线性分类，以及多层神经网络](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/02_logistic_regression_and_multilayer_perceptron)
-- [K近邻算法在图像分类上的应用](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/02_logistic_regression_and_multilayer_perceptron/nearest_neighbor_tf.ipynb)
+> - [K近邻算法在图像分类上的应用](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/02_logistic_regression_and_multilayer_perceptron/nearest_neighbor_tf.ipynb)
 > - [多层神经网络示例-TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/02_logistic_regression_and_multilayer_perceptron/neural_network_tf.ipynb)
 > - [多层神经网络示例-PyTorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/02_logistic_regression_and_multilayer_perceptron/neural_network_pt.ipynb)
