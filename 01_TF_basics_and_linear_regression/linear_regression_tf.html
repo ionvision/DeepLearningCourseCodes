@@ -11778,11 +11778,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="TensorFlow&#32447;&#24615;&#22238;&#24402;&#20195;&#30721;&#31034;&#20363;">TensorFlow&#32447;&#24615;&#22238;&#24402;&#20195;&#30721;&#31034;&#20363;<a class="anchor-link" href="#TensorFlow&#32447;&#24615;&#22238;&#24402;&#20195;&#30721;&#31034;&#20363;">&#182;</a></h1><ul>
-<li>Original Author: Aymeric Damien</li>
-<li>Project: <a href="https://github.com/aymericdamien/TensorFlow-Examples/">https://github.com/aymericdamien/TensorFlow-Examples/</a></li>
-</ul>
-
+<h1 id="TensorFlow&#32447;&#24615;&#22238;&#24402;&#20195;&#30721;&#31034;&#20363;">TensorFlow&#32447;&#24615;&#22238;&#24402;&#20195;&#30721;&#31034;&#20363;<a class="anchor-link" href="#TensorFlow&#32447;&#24615;&#22238;&#24402;&#20195;&#30721;&#31034;&#20363;">&#182;</a></h1>
 </div>
 </div>
 </div>
@@ -11791,7 +11787,8 @@ div#notebook {
 <div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">tensorflow</span> <span class="k">as</span> <span class="nn">tf</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">__future__</span> <span class="k">import</span> <span class="n">print_function</span>
+<span class="kn">import</span> <span class="nn">tensorflow</span> <span class="k">as</span> <span class="nn">tf</span>
 <span class="kn">import</span> <span class="nn">numpy</span>
 <span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
 <span class="n">rng</span> <span class="o">=</span> <span class="n">numpy</span><span class="o">.</span><span class="n">random</span>
@@ -11807,7 +11804,7 @@ div#notebook {
 <div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Parameters, 参数</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Hyper Parameters, 超参数</span>
 <span class="n">learning_rate</span> <span class="o">=</span> <span class="mf">0.01</span>
 <span class="n">training_epochs</span> <span class="o">=</span> <span class="mi">1000</span>
 <span class="n">display_step</span> <span class="o">=</span> <span class="mi">50</span>
@@ -11916,12 +11913,11 @@ div#notebook {
         <span class="c1">#Display logs per epoch step</span>
         <span class="k">if</span> <span class="p">(</span><span class="n">epoch</span><span class="o">+</span><span class="mi">1</span><span class="p">)</span> <span class="o">%</span> <span class="n">display_step</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
             <span class="n">c</span> <span class="o">=</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">cost</span><span class="p">,</span> <span class="n">feed_dict</span><span class="o">=</span><span class="p">{</span><span class="n">X</span><span class="p">:</span> <span class="n">train_X</span><span class="p">,</span> <span class="n">Y</span><span class="p">:</span><span class="n">train_Y</span><span class="p">})</span>
-            <span class="nb">print</span> <span class="s2">&quot;Epoch:&quot;</span><span class="p">,</span> <span class="s1">&#39;</span><span class="si">%04d</span><span class="s1">&#39;</span> <span class="o">%</span> <span class="p">(</span><span class="n">epoch</span><span class="o">+</span><span class="mi">1</span><span class="p">),</span> <span class="s2">&quot;cost=&quot;</span><span class="p">,</span> <span class="s2">&quot;</span><span class="si">{:.9f}</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">c</span><span class="p">),</span> \
-                <span class="s2">&quot;W=&quot;</span><span class="p">,</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">W</span><span class="p">),</span> <span class="s2">&quot;b=&quot;</span><span class="p">,</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">b</span><span class="p">)</span>
-
-    <span class="nb">print</span> <span class="s2">&quot;Optimization Finished!&quot;</span>
+            <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Epoch:&quot;</span><span class="p">,</span> <span class="s1">&#39;</span><span class="si">%04d</span><span class="s1">&#39;</span> <span class="o">%</span> <span class="p">(</span><span class="n">epoch</span><span class="o">+</span><span class="mi">1</span><span class="p">),</span> <span class="s2">&quot;cost=&quot;</span><span class="p">,</span> <span class="s2">&quot;</span><span class="si">{:.9f}</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">c</span><span class="p">),</span><span class="s2">&quot;W=&quot;</span><span class="p">,</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">W</span><span class="p">),</span> <span class="s2">&quot;b=&quot;</span><span class="p">,</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">b</span><span class="p">))</span>
+                  
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Optimization Finished!&quot;</span><span class="p">)</span>
     <span class="n">training_cost</span> <span class="o">=</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">cost</span><span class="p">,</span> <span class="n">feed_dict</span><span class="o">=</span><span class="p">{</span><span class="n">X</span><span class="p">:</span> <span class="n">train_X</span><span class="p">,</span> <span class="n">Y</span><span class="p">:</span> <span class="n">train_Y</span><span class="p">})</span>
-    <span class="nb">print</span> <span class="s2">&quot;Training cost=&quot;</span><span class="p">,</span> <span class="n">training_cost</span><span class="p">,</span> <span class="s2">&quot;W=&quot;</span><span class="p">,</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">W</span><span class="p">),</span> <span class="s2">&quot;b=&quot;</span><span class="p">,</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">b</span><span class="p">),</span> <span class="s1">&#39;</span><span class="se">\n</span><span class="s1">&#39;</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Training cost=&quot;</span><span class="p">,</span> <span class="n">training_cost</span><span class="p">,</span> <span class="s2">&quot;W=&quot;</span><span class="p">,</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">W</span><span class="p">),</span> <span class="s2">&quot;b=&quot;</span><span class="p">,</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">b</span><span class="p">),</span> <span class="s1">&#39;</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
 
     <span class="c1">#Graphic display</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">train_X</span><span class="p">,</span> <span class="n">train_Y</span><span class="p">,</span> <span class="s1">&#39;ro&#39;</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">&#39;Original data&#39;</span><span class="p">)</span>

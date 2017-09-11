@@ -12,6 +12,7 @@
 
 # In[1]:
 
+from __future__ import print_function
 from tensorflow.examples.tutorials.mnist import input_data
 mnist = input_data.read_data_sets("./mnist/", one_hot=True)
 
@@ -27,10 +28,10 @@ y_test = mnist.test.labels
 
 # In[2]:
 
-print "x_train: ", x_train.shape
-print "y_train: ", y_train.shape
-print "x_test: ", x_test.shape
-print "y_test: ", y_test.shape
+print("x_train: ", x_train.shape)
+print("y_train: ", y_train.shape)
+print("x_test: ", x_test.shape)
+print("y_test: ", y_test.shape)
 
 
 # ## 数据可视化 
