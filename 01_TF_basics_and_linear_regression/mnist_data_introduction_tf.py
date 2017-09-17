@@ -41,7 +41,6 @@ print("y_test: ", y_test.shape)
 
 import matplotlib.pyplot as plt
 import numpy as np
-get_ipython().magic('matplotlib inline')
 
 def plot_mnist(data, classes):
     
