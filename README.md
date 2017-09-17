@@ -25,3 +25,23 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 > - [卷积神经网络示例(高级API)-TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/03_CNN_basics/cnn_tf.ipynb)
 
 ### 第四讲：卷积神经网络进阶
+
+### 第五讲：深度神经网络：目标分类与识别
+
+### 第六讲：深度神经网络：目标检测与追踪
+
+### 第七讲：深度神经网络：目标分割
+
+### 第八讲：循环神经网络与序列模型
+
+### 第九讲：无监督式学习
+
+### 第十讲：增强学习
+
+
+
+
+
+
+### 第四讲：卷积神经网络进阶网络
+### 第四讲：卷积神经网络进阶
