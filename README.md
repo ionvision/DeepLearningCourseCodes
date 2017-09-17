@@ -37,11 +37,3 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 ### 第九讲：无监督式学习
 
 ### 第十讲：增强学习
-
-
-
-
-
-
-### 第四讲：卷积神经网络进阶网络
-### 第四讲：卷积神经网络进阶
