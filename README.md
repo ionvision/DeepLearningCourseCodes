@@ -27,7 +27,7 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 ### 第四讲：卷积神经网络进阶
 > 代码示例：[卷积神经网络的进阶实现](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/04_CNN_advances)(TensorFlow)
 > - [卷积神经网络进阶示例与可视化](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/04_CNN_advances/cnn_mnist_simple.ipynb)
-> - [卷积神经网络进阶示例: TF-Slim实现](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/04_CNN_advances/cnn_mnist_modern.ipynb)
+> - [卷积神经网络进阶示例-TF-Slim实现](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/04_CNN_advances/cnn_mnist_modern.ipynb)
 
 > - [准备自定义数据集训练卷积神经网络](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/04_CNN_advances/basic_gendataset.ipynb)
 > - [使用自定义数据集训练卷积神经网络](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/04_CNN_advances/cnn_custom_simple.ipynb)
