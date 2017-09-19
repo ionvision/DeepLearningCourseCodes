@@ -14,10 +14,10 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 > - [线性回归模型-PyTorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/01_TF_basics_and_linear_regression/linear_regression_pt.ipynb)
 
 ### 第二讲：传统神经网络
-> 代码示例：[K近邻算法，线性分类，以及多层神经网络](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/02_logistic_regression_and_multilayer_perceptron)(TensorFlow, PyTorch)
-> - [K近邻算法在图像分类上的应用](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/02_logistic_regression_and_multilayer_perceptron/nearest_neighbor_tf.ipynb)
-> - [多层神经网络示例-TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/02_logistic_regression_and_multilayer_perceptron/neural_network_tf.ipynb)
-> - [多层神经网络示例-PyTorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/02_logistic_regression_and_multilayer_perceptron/neural_network_pt.ipynb)
+> 代码示例：[K近邻算法，线性分类，以及多层神经网络](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/02_Logistic_regression_and_multilayer_perceptron)(TensorFlow, PyTorch)
+> - [K近邻算法在图像分类上的应用](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/02_Logistic_regression_and_multilayer_perceptron/nearest_neighbor_tf.ipynb)
+> - [多层神经网络示例-TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/02_Logistic_regression_and_multilayer_perceptron/neural_network_tf.ipynb)
+> - [多层神经网络示例-PyTorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/02_Logistic_regression_and_multilayer_perceptron/neural_network_pt.ipynb)
 
 ### 第三讲：卷积神经网络基础
 > 代码示例：[卷积神经网络的基础实现](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/03_CNN_basics)(TensorFlow)
