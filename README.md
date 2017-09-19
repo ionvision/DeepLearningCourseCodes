@@ -22,7 +22,7 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 ### 第三讲：卷积神经网络基础
 > 代码示例：[卷积神经网络的基础实现](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/03_CNN_basics)(TensorFlow)
 > - [卷积神经网络基础示例-原生实现](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/03_CNN_basics/cnn_tf_raw.ipynb)
-> - [卷积神经网络基础示例-tf.layers实现](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/03_CNN_basics/cnn_tf.ipynb)
+> - [卷积神经网络基础示例-主流实现](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/03_CNN_basics/cnn_tf.ipynb)
 
 ### 第四讲：卷积神经网络进阶
 > 代码示例：[卷积神经网络的进阶实现](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/04_CNN_advances)(TensorFlow)
