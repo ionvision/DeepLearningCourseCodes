@@ -37,7 +37,7 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 
 > - [基于TensorBoard的CNN可视化](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/04_CNN_advances/vis_cnn_mnist.ipynb)
 
-> - [更多基于TF-Slim的预训练模型](https://github.com/tensorflow/models/tree/master/slim#Pretrained)
+> - [更多基于TF-Slim的预训练模型](https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models)
 
 ### 第五讲：深度神经网络：目标分类与识别
 
