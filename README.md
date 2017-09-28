@@ -42,7 +42,7 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 ### 第五讲：深度神经网络：目标分类与识别
 > 代码示例：[深度神经网络-图像识别与分类](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/05_Image_recognition_and_classification)(TensorFlow)
 
-- 安装[TensorLayer](https://github.com/zsdonghao/tensorlayer) (中文文档参见[此处](https://tensorlayercn.readthedocs.io/zh/latest/)，此后复杂实现均推荐使用TensorLayer高级API库，同时可以结合[TF-Slim](http://tensorlayercn.readthedocs.io/zh/latest/modules/layers.html?highlight=slim#tf-slim)与[Keras](http://tensorlayercn.readthedocs.io/zh/latest/modules/layers.html?highlight=slim#keras))
+- 安装[TensorLayer](https://github.com/zsdonghao/tensorlayer) (中文文档参见[此处](https://tensorlayercn.readthedocs.io/zh/latest/)，此后复杂实现均推荐使用TensorLayer高级API库，同时可以结合[TF-Slim](http://tensorlayercn.readthedocs.io/zh/latest/modules/layers.html#tf-slim)与[Keras](http://tensorlayercn.readthedocs.io/zh/latest/modules/layers.html#keras))
 ```
 pip install git+https://github.com/zsdonghao/tensorlayer.git
 ```  
