@@ -40,13 +40,24 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 > - [更多基于TF-Slim的预训练模型](https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models)
 
 ### 第五讲：深度神经网络：目标分类与识别
-- 安装[TensorLayer](https://github.com/zsdonghao/tensorlayer)：
+> 代码示例：[深度神经网络-图像识别与分类](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/05_Image_recognition_and_classification)(TensorFlow)
+
+- 安装[TensorLayer](https://github.com/zsdonghao/tensorlayer)
 ```
 pip install git+https://github.com/zsdonghao/tensorlayer.git
 ```  
 - 所需数据集下载：[data.zip](https://pan.baidu.com/s/1qYDhN5M) (覆盖`./05_Image_recognition_and_classification/data`文件夹)  
 - 所需模型下载：[vgg19.npz](https://pan.baidu.com/s/1qXIXr32) (放置于`./05_Image_recognition_and_classification`文件夹下)  
-- 所需模型下载：[inception_v3.ckpt](https://pan.baidu.com/s/1hrMB0Ug) (放置于`./05_Image_recognition_and_classification`文件夹下)  
+- 所需模型下载：[inception_v3.ckpt](https://pan.baidu.com/s/1hrMB0Ug) (放置于`./05_Image_recognition_and_classification`文件夹下) 
+
+> - [图像识别与分类示例教程](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/05_Image_recognition_and_classification/cnn.ipynb)
+
+> - [VGG19图像分类模型-TensorLayer实现](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/05_Image_recognition_and_classification/vgg19.ipynb)
+
+> - [InceptionV3图像分类模型-TensorLayer结合TF-SLim实现](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/05_Image_recognition_and_classification/inceptionV3_tfslim.ipynb)
+
+> - [Wide-ResNet网络模型-TensorLayer实现](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/05_Image_recognition_and_classification/wide_resnet_cifar.ipynb)
+
 ### 第六讲：深度神经网络：目标检测与追踪
 
 ### 第七讲：深度神经网络：目标分割
