@@ -46,9 +46,9 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 ```
 pip install git+https://github.com/zsdonghao/tensorlayer.git
 ```  
-- 所需数据集下载：[data.zip](https://pan.baidu.com/s/1qYDhN5M) (覆盖`./05_Image_recognition_and_classification/data`文件夹)  
-- 所需模型下载：[vgg19.npz](https://pan.baidu.com/s/1qXIXr32) (放置于`./05_Image_recognition_and_classification`文件夹下)  
-- 所需模型下载：[inception_v3.ckpt](https://pan.baidu.com/s/1hrMB0Ug) (放置于`./05_Image_recognition_and_classification`文件夹下) 
+- 所需数据集下载：`data.zip`: [[微云](https://share.weiyun.com/7d008fcb693823503155acfc2be6ad2b)][[百度云](https://pan.baidu.com/s/1qYDhN5M)] (覆盖`./05_Image_recognition_and_classification/data`文件夹)  
+- 所需模型下载： `vgg19.npz`  [[微云](https://share.weiyun.com/9fe52101fad44dadd4385d1f3d1e5804)][[百度云](https://pan.baidu.com/s/1qXIXr32)] (放置于`./05_Image_recognition_and_classification`文件夹下)  
+- 所需模型下载：`inception_v3.ckpt` [[微云](https://share.weiyun.com/efdcea495ff2abd9cf271005a1d6f6b9)][[百度云](https://pan.baidu.com/s/1hrMB0Ug)] (放置于`./05_Image_recognition_and_classification`文件夹下) 
 
 > - [图像识别与分类示例教程](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/05_Image_recognition_and_classification/cnn.ipynb)
 
