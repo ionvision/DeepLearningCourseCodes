@@ -12,6 +12,7 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 > - [TensorFlow基础](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/01_TF_basics_and_linear_regression/tensorflow_basic.ipynb)
 > - [线性回归模型-TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/01_TF_basics_and_linear_regression/linear_regression_tf.ipynb)
 > - [线性回归模型-PyTorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/01_TF_basics_and_linear_regression/linear_regression_pt.ipynb)
+> - [线性回归模型-MXNet](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/01_TF_basics_and_linear_regression/linear_regression_mx.ipynb) (contributed by [LinkHS](https://github.com/LinkHS))
 
 ### 第二讲：传统神经网络
 > 代码示例：[K近邻算法，线性分类，以及多层神经网络](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/02_Logistic_regression_and_multilayer_perceptron)(TensorFlow, PyTorch)
