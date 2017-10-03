@@ -6,6 +6,11 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 
 > 重要参考资料：[Deep Learning Book读书笔记](https://github.com/exacity/simplified-deeplearning.git)
 
+> 学习资料：
+>    1. [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
+>    1. [Pytorch Tutorials](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers.
+>    1. [MXNet the straight dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow.
+
 ### 第一讲：深度学习课程总览与神经网络入门
 > 代码示例：[TensorFlow基础与线性回归模型](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/01_TF_basics_and_linear_regression)(TensorFlow, PyTorch)
 > - [MNIST数据集演示](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/01_TF_basics_and_linear_regression/mnist_data_introduction_tf.ipynb)
