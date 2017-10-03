@@ -46,7 +46,7 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 > - [更多基于TF-Slim的预训练模型](https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models)
 
 ### 第五讲：深度神经网络：目标分类与识别
-> 代码示例：[深度神经网络-图像识别与分类](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/05_Image_recognition_and_classification)(TensorFlow)
+> 代码示例：[深度神经网络-图像识别与分类](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/05_Image_recognition_and_classification)(TensorFlow, PyTorch)
 
 - 安装[TensorLayer](https://github.com/zsdonghao/tensorlayer) (中文文档参见[此处](https://tensorlayercn.readthedocs.io/zh/latest/)，此后复杂实现均推荐使用TensorLayer高级API库，同时可以结合[TF-Slim](http://tensorlayercn.readthedocs.io/zh/latest/modules/layers.html#tf-slim)与[Keras](http://tensorlayercn.readthedocs.io/zh/latest/modules/layers.html#keras))
 ```
@@ -63,6 +63,8 @@ pip install git+https://github.com/zsdonghao/tensorlayer.git
 > - [InceptionV3图像分类模型-TensorLayer结合TF-SLim实现](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/05_Image_recognition_and_classification/inceptionV3_tfslim.ipynb)
 
 > - [Wide-ResNet网络模型-TensorLayer实现](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/05_Image_recognition_and_classification/wide_resnet_cifar.ipynb)
+
+> - [Class Activation Mapping (CAM)示例](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/05_Image_recognition_and_classification/pytorch_CAM.py) (完整实现可参考[此处](https://github.com/metalbubble/CAM))
 
 ### 第六讲：深度神经网络：目标检测与追踪
 
