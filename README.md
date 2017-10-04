@@ -8,6 +8,7 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 
 > 学习资料：
 >    1. [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
+>    1. [Finch](https://github.com/zhedongzheng/finch) - Many Machine Intelligence models implemented (mainly tensorflow, sometimes pytorch / mxnet)
 >    1. [Pytorch Tutorials](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers.
 >    1. [MXNet the straight dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow.
 
