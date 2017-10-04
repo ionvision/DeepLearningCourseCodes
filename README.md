@@ -52,7 +52,11 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 - 安装[TensorLayer](https://github.com/zsdonghao/tensorlayer) (中文文档参见[此处](https://tensorlayercn.readthedocs.io/zh/latest/)，此后复杂实现均推荐使用TensorLayer高级API库，同时可以结合[TF-Slim](http://tensorlayercn.readthedocs.io/zh/latest/modules/layers.html#tf-slim)与[Keras](http://tensorlayercn.readthedocs.io/zh/latest/modules/layers.html#keras))
 ```
 pip install git+https://github.com/zsdonghao/tensorlayer.git
-```  
+```
+- 安装[OpenCV](http://opencv.org/) python接口
+```
+conda install -c menpo opencv3 
+```
 - 所需数据集下载：`data.zip`: [[微云](https://share.weiyun.com/7d008fcb693823503155acfc2be6ad2b)][[百度云](https://pan.baidu.com/s/1qYDhN5M)] (覆盖`./05_Image_recognition_and_classification/data`文件夹)  
 - 所需模型下载： `vgg19.npz`  [[微云](https://share.weiyun.com/9fe52101fad44dadd4385d1f3d1e5804)][[百度云](https://pan.baidu.com/s/1qXIXr32)] (放置于`./05_Image_recognition_and_classification`文件夹下)  
 - 所需模型下载：`inception_v3.ckpt` [[微云](https://share.weiyun.com/efdcea495ff2abd9cf271005a1d6f6b9)][[百度云](https://pan.baidu.com/s/1hrMB0Ug)] (放置于`./05_Image_recognition_and_classification`文件夹下) 
