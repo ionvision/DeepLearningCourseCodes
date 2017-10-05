@@ -4,7 +4,9 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 > 注意每一份代码分别有Jupyter Notebook, Python, 以及HTML三种形式，大家可以按照自己的需求阅读，学习或运行。
 > 运行时需要注意anaconda的版本问题，anaconda2-5.0.0与anaconda3-5.0.0分别对应python2.7与python3.6环境。
 
-> 重要参考资料：[Deep Learning Book读书笔记](https://github.com/exacity/simplified-deeplearning.git)
+> 重要参考资料：
+>    1. [Stanford CS229 Machine Learning, Fall 2017](http://cs229.stanford.edu/)
+>    1. [Deep Learning Book读书笔记](https://github.com/exacity/simplified-deeplearning.git)
 
 > 学习资料：
 >    1. [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
