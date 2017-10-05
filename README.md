@@ -73,9 +73,15 @@ conda install -c menpo opencv3
 
 > - [Class Activation Mapping (CAM)示例](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/05_Image_recognition_and_classification/pytorch_CAM.py) (完整实现可参考[此处](https://github.com/metalbubble/CAM))
 
-### 第六讲：深度神经网络：目标检测与追踪
+### 第六讲：深度神经网络：目标检测
+> 代码示例：[目标检测模型示例](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/01_TF_basics_and_linear_regression) (TensorFlow, PyTorch)
 
-### 第七讲：深度神经网络：目标分割
+1. [TensorFlow Object Detection API使用示例](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/06_Object_detection/Object_Detection_Tensorflow_API_demo)
+
+- 所需模型下载：`ssd_mobilenet_v1_coco_11_06_2017`: [[微云](https://share.weiyun.com/800e541b4403b07fb460fc017c77dc20)] (解压并置于`06_Object_detection/Object_Detection_Tensorflow_API_demo/object_detection/`文件夹下)
+
+
+### 第七讲：深度神经网络：目标追踪与目标分割
 
 ### 第八讲：循环神经网络与序列模型
 
