@@ -80,6 +80,9 @@ conda install -c menpo opencv3
 
 - 所需模型下载：`ssd_mobilenet_v1_coco_11_06_2017`: [[微云](https://share.weiyun.com/800e541b4403b07fb460fc017c77dc20)] (解压并置于`06_Object_detection/Object_Detection_Tensorflow_API_demo/object_detection/`文件夹下)
 
+2. [`SSD: Single Shot Multibox Detector`] ([TensorFlow实现](https://github.com/balancap/SSD-Tensorflow), [PyTorch实现](https://github.com/amdegroot/ssd.pytorch))
+
+3. [`YOLO`, `YOLOv2`] ([TensorFlow实现](https://github.com/ruiminshen/yolo-tf), [PyTorch实现](https://github.com/marvis/pytorch-yolo2))
 
 ### 第七讲：深度神经网络：目标追踪与目标分割
 
