@@ -73,7 +73,7 @@ conda install -c menpo opencv3
 
 > - [Class Activation Mapping (CAM)示例](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/05_Image_recognition_and_classification/pytorch_CAM.py) (完整实现可参考[此处](https://github.com/metalbubble/CAM))
 
-### 第六讲：深度神经网络：目标检测
+### 第六讲：深度神经网络：目标检测与定位
 > 代码示例：[目标检测模型示例](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/01_TF_basics_and_linear_regression) (TensorFlow, PyTorch)
 
 1. [TensorFlow Object Detection API使用示例](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/06_Object_detection/Object_Detection_Tensorflow_API_demo)
