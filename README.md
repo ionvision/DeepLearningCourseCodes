@@ -58,6 +58,8 @@ pip install git+https://github.com/zsdonghao/tensorlayer.git
 - 安装[OpenCV](http://opencv.org/) python接口
 ```
 conda install -c menpo opencv3 
+或
+pip install opencv-python
 ```
 - 所需数据集下载：`data.zip`: [[微云](https://share.weiyun.com/7d008fcb693823503155acfc2be6ad2b)][[百度云](https://pan.baidu.com/s/1qYDhN5M)] (覆盖`./05_Image_recognition_and_classification/data`文件夹)  
 - 所需模型下载： `vgg19.npz`  [[微云](https://share.weiyun.com/9fe52101fad44dadd4385d1f3d1e5804)][[百度云](https://pan.baidu.com/s/1qXIXr32)] (放置于`./05_Image_recognition_and_classification`文件夹下)  
