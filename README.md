@@ -87,7 +87,7 @@ pip install opencv-python
 3. [`YOLO`, `YOLOv2`] ([TensorFlow实现](https://github.com/ruiminshen/yolo-tf), [PyTorch实现](https://github.com/marvis/pytorch-yolo2))
 
 ### 第七讲：深度神经网络：目标追踪与目标分割
-> 代码示例：[目标追踪与目标分割]()
+> 代码示例：[目标追踪与目标分割](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/07_Object_tracking_and_object_segmentation)
 
 1. 目标追踪 - [`GOTURN`]([TensorFlow实现](https://github.com/tangyuhao/GOTURN-Tensorflow), [Plain Python实现](https://github.com/nrupatunga/PY-GOTURN), [Original C++实现](https://github.com/davheld/GOTURN))
 
