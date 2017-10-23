@@ -114,5 +114,16 @@ pip install opencv-python
 - 视频标注, `Video Captioning` - [[TensorFlow](https://github.com/chenxinpeng/S2VT)]
 
 ### 第九讲：无监督式学习与生成对抗网络
+> 代码示例：[生成对抗网络](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/09_Unsupervised_learning_and_GANs)
+
+- 生成对抗网络, `GAN` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/09_Unsupervised_learning_and_GANs/gan.ipynb), [PyTorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/09_Unsupervised_learning_and_GANs/gan_pytorch.py)] 
+
+- 深度卷积生成对抗网络, `DCGAN` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/09_Unsupervised_learning_and_GANs/dcgan.ipynb)]
+
+- `Pix2Pix`, `CycleGAN` - [[PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
+
+- `StackGAN` - [[PyTorch](https://github.com/hanzhanggit/StackGAN-Pytorch)]
+
+- `GANs Model Collections` - [[1](https://github.com/wiseodd/generative-models), [2](https://github.com/hwalsuklee/tensorflow-generative-model-collections), [3](https://github.com/znxlwm/pytorch-generative-model-collections)]
 
 ### 第十讲：强化学习
