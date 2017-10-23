@@ -79,25 +79,39 @@ pip install opencv-python
 ### 第六讲：深度神经网络：目标检测与定位
 > 代码示例：[目标检测模型示例](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/01_TF_basics_and_linear_regression) (TensorFlow, PyTorch)
 
-1. [TensorFlow Object Detection API使用示例](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/06_Object_detection/Object_Detection_Tensorflow_API_demo)
+- [TensorFlow Object Detection API使用示例](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/06_Object_detection/Object_Detection_Tensorflow_API_demo)
 
 - 所需模型下载：`ssd_mobilenet_v1_coco_11_06_2017`: [[微云](https://share.weiyun.com/800e541b4403b07fb460fc017c77dc20)] (解压并置于`06_Object_detection/Object_Detection_Tensorflow_API_demo/object_detection/`文件夹下)
 
-2. [`SSD: Single Shot Multibox Detector`] ([TensorFlow实现](https://github.com/balancap/SSD-Tensorflow), [PyTorch实现](https://github.com/amdegroot/ssd.pytorch))
+- [`SSD: Single Shot Multibox Detector`] ([TensorFlow实现](https://github.com/balancap/SSD-Tensorflow), [PyTorch实现](https://github.com/amdegroot/ssd.pytorch))
 
-3. [`YOLO`, `YOLOv2`] ([TensorFlow实现](https://github.com/ruiminshen/yolo-tf), [PyTorch实现](https://github.com/marvis/pytorch-yolo2))
+- [`YOLO`, `YOLOv2`] ([TensorFlow实现](https://github.com/ruiminshen/yolo-tf), [PyTorch实现](https://github.com/marvis/pytorch-yolo2))
 
 ### 第七讲：深度神经网络：目标追踪与目标分割
 > 代码示例：[目标追踪与目标分割](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/07_Object_tracking_and_object_segmentation)
 
-1. 目标追踪 - [`GOTURN`]([TensorFlow实现](https://github.com/tangyuhao/GOTURN-Tensorflow), [Plain Python实现](https://github.com/nrupatunga/PY-GOTURN), [Original C++实现](https://github.com/davheld/GOTURN))
+- 目标追踪 - [`GOTURN`]([TensorFlow实现](https://github.com/tangyuhao/GOTURN-Tensorflow), [Plain Python实现](https://github.com/nrupatunga/PY-GOTURN), [Original C++实现](https://github.com/davheld/GOTURN))
 
-2. 目标分割 - [`FCN`]([TensorFlow实现](https://github.com/shekkizh/FCN.tensorflow), [PyTorch实现](https://github.com/wkentaro/pytorch-fcn))
+- 目标分割 - [`FCN`]([TensorFlow实现](https://github.com/shekkizh/FCN.tensorflow), [PyTorch实现](https://github.com/wkentaro/pytorch-fcn))
 
-3. 目标分割 - [`Mask-RCNN`]([TensorFlow实现](https://github.com/CharlesShang/FastMaskRCNN), [PyTorch实现](https://github.com/felixgwu/mask_rcnn_pytorch))
+- 目标分割 - [`Mask-RCNN`]([TensorFlow实现](https://github.com/CharlesShang/FastMaskRCNN), [PyTorch实现](https://github.com/felixgwu/mask_rcnn_pytorch))
 
 ### 第八讲：循环神经网络与序列模型
+> 代码示例：[循环神经网络](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/08_RNN_and_Seq2Seq)
 
-### 第九讲：无监督式学习
+- 循环神经网络, `RNN` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/rnn_tf.ipynb), [Pytorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/rnn_pytorch.py)]
 
-### 第十讲：增强学习
+- 双向循环神经网络, `Bidirectional-RNN` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/bidirectional_rnn_tf.ipynb), [Pytorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/bidirection_rnn_pytorch.py)]
+
+- 动态循环神经网络, `Dynamic-RNN` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/dynamic_rnn_tf.ipynb)]
+
+- 自动编码器, `AutoEncoder` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/autoencoder_tf.ipynb)]
+
+- 变分自动编码器, `Variational AutoEncoder` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/variational_autoencoder_tf.ipynb)]
+
+- 图片标注, `Image Captioning` - [[PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)]
+
+
+### 第九讲：无监督式学习与生成对抗网络
+
+### 第十讲：强化学习
