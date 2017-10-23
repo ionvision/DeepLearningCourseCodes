@@ -112,6 +112,6 @@ pip install opencv-python
 - 图片标注, `Image Captioning` - [[PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)]
 
 
-### 第九讲：无监督式学习
+### 第九讲：无监督式学习与生成对抗网络
 
-### 第十讲：增强学习
+### 第十讲：强化学习
