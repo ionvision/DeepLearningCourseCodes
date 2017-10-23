@@ -122,7 +122,7 @@ pip install opencv-python
 
 - `Pix2Pix`, `CycleGAN` - [[PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)]
 
-- `StackGAN` - [[PyTorch](https://github.com/hanzhanggit/StackGAN-Pytorch)]
+- `StackGAN` - [[TensorFlow, PyTorch](https://github.com/hanzhanggit/StackGAN)]
 
 - `GANs Model Collections` - [[1](https://github.com/wiseodd/generative-models), [2](https://github.com/hwalsuklee/tensorflow-generative-model-collections), [3](https://github.com/znxlwm/pytorch-generative-model-collections)]
 
