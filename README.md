@@ -99,17 +99,17 @@ pip install opencv-python
 ### 第八讲：循环神经网络与序列模型
 > 代码示例：[循环神经网络](https://github.com/jastarex/DeepLearningCourseCodes/tree/master/08_RNN_and_Seq2Seq)
 
-- 循环神经网络, RNN - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/rnn_tf.ipynb), [Pytorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/rnn_pytorch.py)]
+- 循环神经网络, `RNN` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/rnn_tf.ipynb), [Pytorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/rnn_pytorch.py)]
 
-- 双向循环神经网络, Bidirectional-RNN - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/bidirectional_rnn_tf.ipynb), [Pytorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/bidirection_rnn_pytorch.py)]
+- 双向循环神经网络, `Bidirectional-RNN` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/bidirectional_rnn_tf.ipynb), [Pytorch](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/bidirection_rnn_pytorch.py)]
 
-- 动态循环神经网络, Dynamic-RNN - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/dynamic_rnn_tf.ipynb)]
+- 动态循环神经网络, `Dynamic-RNN` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/dynamic_rnn_tf.ipynb)]
 
-- 自动编码器, AutoEncoder - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/autoencoder_tf.ipynb)]
+- 自动编码器, `AutoEncoder` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/autoencoder_tf.ipynb)]
 
-- 变分自动编码器, Variational AutoEncoder - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/variational_autoencoder_tf.ipynb)]
+- 变分自动编码器, `Variational AutoEncoder` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/variational_autoencoder_tf.ipynb)]
 
-- 图片标注, Image Captioning - [[PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)]
+- 图片标注, `Image Captioning` - [[PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)]
 
 
 ### 第九讲：无监督式学习
