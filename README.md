@@ -109,8 +109,9 @@ pip install opencv-python
 
 - 变分自动编码器, `Variational AutoEncoder` - [[TensorFlow](https://github.com/jastarex/DeepLearningCourseCodes/blob/master/08_RNN_and_Seq2Seq/variational_autoencoder_tf.ipynb)]
 
-- 图片标注, `Image Captioning` - [[PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)]
+- 图片标注, `Image Captioning` - [[TensorFlow](https://github.com/zsdonghao/Image-Captioning), [PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)]
 
+- 视频标注, `Video Captioning` - [[TensorFlow](https://github.com/chenxinpeng/S2VT)]
 
 ### 第九讲：无监督式学习与生成对抗网络
 
