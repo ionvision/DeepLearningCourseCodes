@@ -127,3 +127,9 @@ pip install opencv-python
 - `GANs Model Collections` - [[1](https://github.com/wiseodd/generative-models), [2](https://github.com/hwalsuklee/tensorflow-generative-model-collections), [3](https://github.com/znxlwm/pytorch-generative-model-collections)]
 
 ### 第十讲：强化学习
+
+- `Basic Reinforcement Learning` - [[basic_reinforcement_learning](https://github.com/vmayoral/basic_reinforcement_learning)]
+
+- `Applied Reinfocement Learning` - [[applied-reinforcement-learning](https://github.com/mimoralea/applied-reinforcement-learning)]
+
+- `Oreilly RL Tutorial` - [[oreilly-rl-tutorial](https://github.com/awjuliani/oreilly-rl-tutorial)]
