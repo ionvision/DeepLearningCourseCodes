@@ -7,6 +7,7 @@ Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop
 > 重要参考资料：
 >    1. [Stanford CS229 Machine Learning, Fall 2017](http://cs229.stanford.edu/)
 >    1. [Deep Learning Book读书笔记](https://github.com/exacity/simplified-deeplearning.git)
+>    1. [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml) [[book](https://www.amazon.com/_/dp/1491962291?tag=oreilly20-20)]
 
 > 学习资料：
 >    1. [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
